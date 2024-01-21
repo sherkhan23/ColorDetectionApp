@@ -1,5 +1,10 @@
 # ColorDetectionApp
 
+How to run app? 
+
+python color_detection_app.py
+
+
 
 Libraries:
     1. tkinter: A standard Python interface to the Tk GUI toolkit. Used for creating the graphical user interface.
